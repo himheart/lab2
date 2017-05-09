@@ -10,8 +10,13 @@ namespace lab2
     {
         static void Main(string[] args)
         {
+
             CreditCard.CreditCard creditCard = new CreditCard.CreditCard();
             Console.WriteLine(creditCard.getCredit());
+
+
+            BusinessCard.BusinessCard businessCard = new BusinessCard.BusinessCard();
+            businessCard.useBusinessCard();
 
         }
     }

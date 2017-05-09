@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2", "lab2\lab2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{8B37FEF5-5885-4AC1-AF7E-C2046496255D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessCard", "BusinessCard\BusinessCard.csproj", "{B7FD8BD5-D510-4E9A-B025-E175D92C769B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +19,15 @@ Global
 		{AB4C2D61-7261-432E-85F3-268862B74B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB4C2D61-7261-432E-85F3-268862B74B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB4C2D61-7261-432E-85F3-268862B74B44}.Release|Any CPU.Build.0 = Release|Any CPU
+
 		{8B37FEF5-5885-4AC1-AF7E-C2046496255D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8B37FEF5-5885-4AC1-AF7E-C2046496255D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B37FEF5-5885-4AC1-AF7E-C2046496255D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B37FEF5-5885-4AC1-AF7E-C2046496255D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FD8BD5-D510-4E9A-B025-E175D92C769B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FD8BD5-D510-4E9A-B025-E175D92C769B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FD8BD5-D510-4E9A-B025-E175D92C769B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FD8BD5-D510-4E9A-B025-E175D92C769B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
