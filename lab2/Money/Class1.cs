@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab2
+namespace Money
 {
-    class Program
+    public class Money
     {
-        static void Main(string[] args)
+        public void getMoney()
         {
-            Money.Money money = new Money.Money();
-            money.getMoney();
+            Console.WriteLine("Give money ");
         }
     }
 }
