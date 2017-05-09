@@ -14,10 +14,12 @@ namespace lab2
             CreditCard.CreditCard creditCard = new CreditCard.CreditCard();
             Console.WriteLine(creditCard.getCredit());
 
-
             BusinessCard.BusinessCard businessCard = new BusinessCard.BusinessCard();
             businessCard.useBusinessCard();
 
+            Money.Money money = new Money.Money();
+            money.getMoney();
+            
         }
     }
 }
